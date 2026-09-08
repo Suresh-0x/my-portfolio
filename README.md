@@ -5,7 +5,7 @@ A modern, responsive personal portfolio website built with clean HTML5, CSS3, an
 ---
 
 ## 🚀 Live Demo
-- **Portfolio Website:** [https://suresh-0x.github.io/my-portfolio/](https://suresh-0x.github.io/my-portfolio/)
+- **Portfolio Website:** https://sureshportfolio-dev.vercel.app/
 
 ---
 
