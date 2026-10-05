@@ -32,8 +32,7 @@ A modern, responsive personal portfolio website built with clean HTML5, CSS3, an
 
 ## 🏆 Problem-Solving & Certifications
 
-- **LeetCode:** 140+ Problems Solved ([Profile](https://leetcode.com/u/cN55zhv65v/))
-- **GeeksforGeeks:** 218+ Problems Solved ([Profile](https://www.geeksforgeeks.org/profile/sureshjag1b7o))
+
 - **AWS Certified Cloud Practitioner** — Amazon Web Services
 - **Microsoft Certified:** Azure AI Apps and Agents Developer Associate
 - **NPTEL Java Certification (Elite + Silver):** 86% — IIT Kharagpur
